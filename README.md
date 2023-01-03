@@ -1,7 +1,7 @@
-### Hi, I'm João Vitor Feliciano 👋
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center"> Hi, I'm João Vitor Feliciano 👋</h1>
 
+# 💫 About Me
+🔭 I’m currently working on Linkr<br/>👯 I’m looking to collaborate on web development projects that can make a positive and significant impact on people's lives<br/>🌱 I’m currently learning PostgreSQL<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.vitorfeliciano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvitorfeliciano) 
@@ -17,13 +17,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jvitorfeliciano&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.vitorfeliciano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvitorfeliciano) 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
   
-  ![Snake animation](https://github.com/jvitorfeliciano/jvitorfeliciano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jvitorfeliciano/jvitorfeliciano/blob/output/github-contribution-grid-snake.svg)
  
