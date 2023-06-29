@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on KnowBridge<br>- 📚 I'm currently learning Angular.js<br>- 👯 I’m looking to collaborate on web development projects that can make a positive and significant impact on people's lives<br>- ⚡ In my free time I like  to play chess, play with my dogs and admire the nature</p>
+<p align="left">- 🔭 I’m working on KnowBridge<br>- 📚 I'm currently learning Angular<br>- 👯 I’m looking to collaborate on web development projects that can make a positive and significant impact on people's lives<br>- ⚡ In my free time I like  to play chess, play with my dogs and admire the nature</p>
 
 ###
 
